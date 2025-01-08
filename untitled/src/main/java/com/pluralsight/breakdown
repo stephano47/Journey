@@ -1,0 +1,6 @@
+Journey Game Breakdown
+
+-- Spaceship Game
+--- Ship as Player
+---- Enemies could be bugs
+        -- They will loop to the bottom and repositiong back to the top
